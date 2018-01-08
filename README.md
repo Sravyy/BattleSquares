@@ -48,7 +48,7 @@ Battleship is a guessing game for two players.It is played on board on which the
 
  ## Support and contact details
 
- _Email me at marcusjparmentier@gmail.com with any questions, comments, or concerns._
+ _Email me at svelaga0412@gmail.com with any questions, comments, or concerns._
 
 
 ### License
